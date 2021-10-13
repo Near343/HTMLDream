@@ -1,0 +1,34 @@
+body, footer
+{
+	background-color: indigo;
+	text-align: center;
+}
+header
+{
+	background-color: mediumpurple;
+	text-align: justify-all;
+	padding: 2px;
+}
+
+#titulo
+{
+	color: black;
+}
+h1
+{
+	text-align: justify-all;
+}
+
+
+.foto1{
+width: 220px;
+height: 200px;
+margin-right: 45%;
+margin-left: 50%;
+display: block;
+padding: 1px;
+float: right;
+
+}
+
+
